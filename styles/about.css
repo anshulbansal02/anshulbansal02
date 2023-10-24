@@ -18,10 +18,12 @@
   font-weight: 600;
 }
 
+.job .para {
+  text-wrap: balance;
+}
+
 .para {
   font-size: 1.8rem;
-  font-weight: 400;
-
   margin-bottom: 2rem;
 }
 
