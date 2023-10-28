@@ -45,7 +45,7 @@ $(window).on("load", () => {
 	<li>
 		<button
 			title="Download Resume"
-			onclick="window.open('./files/Anshul_Bansal_Resume.pdf');"
+			onclick="window.open('./files/Anshul Bansal - Resume.pdf');"
 		>
 			<img
 				src="./img/resume.svg"
